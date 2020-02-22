@@ -21,6 +21,8 @@ public class Main {
 
         System.out.println("tutaj jest koniec wersji 1.0.1 poszlo na produkcje");
 
+        System.out.println("dodalem tajemniczy kod, ktory potrzebal szybko moj kumpel z teamu");
+
 
     }
 }
