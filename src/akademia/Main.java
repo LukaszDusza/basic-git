@@ -18,5 +18,9 @@ public class Main {
         System.out.println("tu zaczyna się wersja 1.0.1");
 
         System.out.println("tutaj leży super kod z wersji 1.0.1");
+
+        System.out.println("tutaj jest koniec wersji 1.0.1 poszlo na produkcje");
+
+
     }
 }
