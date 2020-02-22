@@ -8,5 +8,7 @@ public class Main {
         System.out.println("siema siema to jest brach person");
 
         System.out.println("siema jest branch ficzer");
+
+        System.out.println("to jest super kod z ficzera 2");
     }
 }
