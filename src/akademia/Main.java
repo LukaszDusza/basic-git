@@ -14,5 +14,7 @@ public class Main {
         System.out.println("to jest super kod z ficzera 3");
 
         System.out.println("to jest super kod z ficzera 4");
+
+        System.out.println("tu zaczyna się wersja 1.0.1");
     }
 }
